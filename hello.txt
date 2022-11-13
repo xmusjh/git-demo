@@ -10,3 +10,4 @@ master
 hotfix
 remote change
 local change
+ssh master change 
